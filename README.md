@@ -45,7 +45,21 @@ A interface mostra a conversa com balões de chat coloridos, emojis e histórico
 
 PASSO A PASSO para iniciar a aplicação:
 
-No terminal digite:
+Primeiro no terminal instale as dependências:
+
+pip install transformers torch streamlit
+
+Depois inicie o código:
 
 streamlit run chatbot_local.py
+
+OBS: Recomendado que crie um ambiente virtual antes de iniciar a aplicação 
+
+py -m venv venv
+
+Windows
+venv\Scripts\activate
+
+Linux
+source venv/bin/activate
 
