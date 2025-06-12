@@ -1,7 +1,7 @@
 # Chatbot.Ia
 Projeto da Faculdade de chat interativo com IA 
 
-Um chat bot simples que responde perguntas pré programadas, utilizando um modelo local de IA local. 
+Um chat bot simples que responde perguntas pré programadas, utilizando um modelo de IA local. 
 
 Objetivo do Projeto:
 
